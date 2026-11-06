@@ -1,0 +1,7 @@
+OK — 2 tracked file(s) checked, .gitignore matches.
+FAIL secrets.txt: tracked but ignored by .gitignore line 2: secrets.txt
+FAIL app.log: tracked but ignored by .gitignore line 1: *.log
+FAIL examples/bad-repo/.gitignore:3: pattern '*.tmp' matches nothing
+Checked 3 tracked file(s), 3 problem(s).
+FAIL examples/no-gitignore-repo: no .gitignore file
+Checked 2 tracked file(s), 1 problem(s).
